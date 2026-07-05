@@ -14,12 +14,23 @@ This is a console-based calculator project developed using C language in Dev-C++
 - Continuous calculations using do-while loop
 - Input validation for division and modulus by zero
 
+## Project Structure
+- calculator.c → main code
+- README.md → project info
+- Output Screenshot → results
+- Project Report → documentation
+
 ## Technologies Used
 - C Language
 - Dev-C++ IDE
 - GCC Compiler
 - math.h library
 
+## Concepts Used
+- Functions
+- Conditional Statements (if / switch)
+- User Input Handling (scanf)
+  
 ## How It Works
 1. Program displays calculator menu
 2. User enters expression (example: 5 + 3)
